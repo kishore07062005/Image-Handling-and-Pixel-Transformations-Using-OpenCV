@@ -316,6 +316,7 @@ plt.show()
 
 - **4)** Display the Colour Image & Shape
 <img width="551" height="456" alt="image" src="https://github.com/user-attachments/assets/e20587cc-dccd-4c71-89cf-7755e8f6c724" />
+
 - **5)** Crop the Image
 <img width="525" height="455" alt="image" src="https://github.com/user-attachments/assets/bfae82e4-63f3-4807-a811-5b6c59e0b26b" />
 
@@ -339,13 +340,14 @@ plt.show()
 
 - **12)** Split the image into B, G, R channels
 <img width="556" height="166" alt="image" src="https://github.com/user-attachments/assets/4c1ea308-239c-4f50-bf43-f6826f9904eb" />
-- **12)** Merge R, G, B and display with original
+
+- **13)** Merge R, G, B and display with original
 <img width="556" height="227" alt="image" src="https://github.com/user-attachments/assets/cd004da6-8419-460c-b6c1-df308a6de52f" />
 
-- **12)** Split into H, S, V c
+- **14)** Split into H, S, V c
 <img width="558" height="164" alt="image" src="https://github.com/user-attachments/assets/6569c37b-da53-440b-b8c5-c525b547ddbc" />
 
-- **12)** Merge H, S, V and display with original
+- **15)** Merge H, S, V and display with original
 <img width="559" height="231" alt="image" src="https://github.com/user-attachments/assets/8fc004f0-7b00-4b53-8854-5e1e61968e6d" />
 
 ## Result:
